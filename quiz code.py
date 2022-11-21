@@ -9,7 +9,7 @@ root=Tk()
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="qweabc",
+  password="mastermind10",
   database="trivia"
 )
 
